@@ -43,3 +43,14 @@ Our rover uses the [Left Wall Follower algorithm](https://en.wikipedia.org/wiki/
 ![alt text](https://github.com/DimDam55/Maze-Solving-Rover/blob/main/photo_rover2.jpg?raw=true)
 
 ![alt text](https://github.com/DimDam55/Maze-Solving-Rover/blob/main/photo_rover3.jpg?raw=true)
+
+## Implementation issues
+
+- Course correction (driving in a straight line)
+- Reflection of sound waves, when the sensor is in a non-perpenticular position from the left wall ,which results to inaccurate measurements of the distance.
+
+## Solutions to the above issues
+
+- Use of [PD controller](https://en.wikipedia.org/wiki/PID_controller) for course correction
+- Left Sensor placed on a 45 degrees angle with respect to the rover's greatest dimension axis , as shown on the above photos
+
