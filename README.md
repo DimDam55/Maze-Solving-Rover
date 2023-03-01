@@ -18,4 +18,4 @@ Our rover uses the [Left Wall Follower algorithm](https://en.wikipedia.org/wiki/
 
 ## Flowchart 
 
-![alt text](https://github.com/DimDam55/Maze-Solving-Rover/blob/main/image.jpg?raw=true)
+![alt text](https://github.com/DimDam55/Maze-Solving-Rover/blob/main/maze-rover-flowchart.drawio.png?raw=true)
