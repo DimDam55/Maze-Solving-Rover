@@ -29,5 +29,7 @@ Our rover uses the [Left Wall Follower algorithm](https://en.wikipedia.org/wiki/
 - Car Chassis x1
 - Gear Motor x2
 - Car Tire x2
+
+## Schematic 
 - Universal Wheel x1
 - Buzzer x1
