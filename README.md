@@ -14,4 +14,8 @@ This is our submission for the 2022 Workshop of NTUA Microprocessors Laboratory 
 
 ## The implementation
 
-Our rover uses the [Left Wall Follower algorithm] (https://en.wikipedia.org/wiki/Maze-solving_algorithm)
+Our rover uses the [Left Wall Follower algorithm](https://en.wikipedia.org/wiki/Maze-solving_algorithm) to find the exit from the maze, given that the rover begins at its entrance.
+
+## Flowchart 
+
+![alt text](https://github.com/DimDam55/Maze-Solving-Rover/blob/main/image.jpg?raw=true)
