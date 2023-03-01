@@ -29,7 +29,17 @@ Our rover uses the [Left Wall Follower algorithm](https://en.wikipedia.org/wiki/
 - Car Chassis x1
 - Gear Motor x2
 - Car Tire x2
-
-## Schematic 
 - Universal Wheel x1
 - Buzzer x1
+
+## Schematic 
+
+![alt text](https://github.com/DimDam55/Maze-Solving-Rover/blob/main/schematic.png?raw=true)
+
+## Photos of the rover
+
+![alt text](https://github.com/DimDam55/Maze-Solving-Rover/blob/main/photo_rover1.jpg?raw=true)
+
+![alt text](https://github.com/DimDam55/Maze-Solving-Rover/blob/main/photo_rover2.jpg?raw=true)
+
+![alt text](https://github.com/DimDam55/Maze-Solving-Rover/blob/main/photo_rover3.jpg?raw=true)
