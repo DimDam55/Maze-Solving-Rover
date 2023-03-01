@@ -54,3 +54,4 @@ Our rover uses the [Left Wall Follower algorithm](https://en.wikipedia.org/wiki/
 - Use of [PD controller](https://en.wikipedia.org/wiki/PID_controller) for course correction
 - Left Sensor placed on a 45 degrees angle with respect to the rover's greatest dimension axis , as shown on the above photos
 
+
