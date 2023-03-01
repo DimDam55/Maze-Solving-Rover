@@ -1,4 +1,4 @@
-# Maze-Solving-Rover
+# Maze Solving Rover
 ## Maze Solving Rover using Arduino Uno
 
 Created by: Damianos Dimitrios, Larisis Konstantinos
@@ -46,12 +46,12 @@ Our rover uses the [Left Wall Follower algorithm](https://en.wikipedia.org/wiki/
 
 ## Implementation issues
 
-- Course correction (driving in a straight line)
+- Course correction (driving in a straight line).
 - Reflection of sound waves, when the sensor is in a non-perpendicular position from the left wall ,which results to inaccurate measurements of the distance.
 
 ## Solutions to the above issues
 
-- Use of [PD controller](https://en.wikipedia.org/wiki/PID_controller) for course correction
-- Left Sensor placed on a 45 degrees angle with respect to the rover's greatest dimension axis , as shown on the above photos
+- Use of [PD controller](https://en.wikipedia.org/wiki/PID_controller) for course correction.
+- Left sensor placed on a 45 degree angle with respect to the rover's greatest dimension axis , as shown on the above photos.
 
 
