@@ -47,7 +47,7 @@ Our rover uses the [Left Wall Follower algorithm](https://en.wikipedia.org/wiki/
 ## Implementation issues
 
 - Course correction (driving in a straight line)
-- Reflection of sound waves, when the sensor is in a non-perpenticular position from the left wall ,which results to inaccurate measurements of the distance.
+- Reflection of sound waves, when the sensor is in a non-perpendicular position from the left wall ,which results to inaccurate measurements of the distance.
 
 ## Solutions to the above issues
 
